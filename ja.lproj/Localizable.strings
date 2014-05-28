@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  StudySpeechSynthesizer
+
+  Created by nackpan on 2014/05/28.
+  Copyright (c) 2014年 nackpan. All rights reserved.
+*/
+
+"SpeechTextString"="ここにテキストを入力してください";
